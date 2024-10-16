@@ -10,7 +10,7 @@ The datasets we adopted is from DDPM-CD: [wgcban/ddpm-cd: Remote Sensing Change 
 
 The training code we adopted is from ChangeFormer: [wgcban/ChangeFormer: [IGARSS'22\]: A Transformer-Based Siamese Network for Change Detection (github.com)](https://github.com/wgcban/ChangeFormer)
 
-- MDIPNet.py is the implementation this work: Remote Sensing Change Detection With Bitemporal and Differential Feature Interactive Perception (TIP-2024)
+- MDIPNet.py is the implementation of this work: Remote Sensing Change Detection With Bitemporal and Differential Feature Interactive Perception (TIP-2024)
 
   ```
    @ARTICLE{10599227,
@@ -40,7 +40,7 @@ The dataset was processed by ourselves, see our paper for details.
 
 The training code we adopted is from Bi-SRNet: [ggsDing/Bi-SRNet (github.com)](https://github.com/ggsDing/Bi-SRNet)
 
-- JFRNet.py is the implementation this work: A Triple-Branch Hybrid Attention Network With Bitemporal Feature Joint Refinement for Remote-Sensing Image Semantic Change Detection (TGRS-2024)
+- JFRNet.py is the implementation of this work: A Triple-Branch Hybrid Attention Network With Bitemporal Feature Joint Refinement for Remote-Sensing Image Semantic Change Detection (TGRS-2024)
 
   ```
   @ARTICLE{10466771,
