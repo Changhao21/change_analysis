@@ -1,8 +1,8 @@
 # This is a summary of all my work
 
-If you find my work is helpful, welcome to cite it.
+If you find our work is helpful, welcome to cite it.
 
-I greatly appreciate the contribution of related work mentioned below !
+We greatly appreciate the contribution of related work mentioned below !
 
 ## 1、Binary Change Detection
 
